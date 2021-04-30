@@ -61,11 +61,7 @@ const config = {
     //   }]
     // })
   ],
-<<<<<<< HEAD
-  mode: 'development'
-=======
   mode: "development"
->>>>>>> develop
 };
 
 module.exports = config;
